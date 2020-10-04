@@ -1,0 +1,2 @@
+# YeniDevGitProj
+Git denemesi
